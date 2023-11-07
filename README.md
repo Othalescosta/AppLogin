@@ -1,10 +1,10 @@
 # AppLogin
 
-Aula1Calculadora
-Sobre o projeto
+
+Sobre o projeto:
+
 Aplicativo de Login Simples.
 
-Layout mobile:
 
 
 
